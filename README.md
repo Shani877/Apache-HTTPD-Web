@@ -32,7 +32,7 @@ Host an Apache HTTPD Web Server &amp; Deploy a CSS Template on Ubuntu
    ```
 3. Extract the downloaded ZIP file
    ```bash
-   unzip healet.zip
+   unzip <css template.zip>
    ```
 4. Check extracted files
    ```bash
